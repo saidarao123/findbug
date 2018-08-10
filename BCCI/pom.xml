@@ -46,6 +46,7 @@
             </configuration>
         </plugin>
       </plugins>
+     </reporting>
     </build>
   </profile>
 </profiles>
