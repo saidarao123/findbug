@@ -44,8 +44,8 @@
                 <!-- Produces XML report -->
                 <xmlOutput>true</xmlOutput>
             </configuration>
-  </plugin>
-  </plugins>
+        </plugin>
+      </plugins>
     </build>
   </profile>
 </profiles>
